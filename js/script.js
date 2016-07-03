@@ -3,7 +3,7 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = 'lb676h2eqpsrtkrc';
     // Either provide full API query here or include options below
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
@@ -13,12 +13,12 @@ $(function(){
     var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
-    var titles = '';
+    var titles = '11';
     // Add a byline, eg:
     var byline = 'Created by <a href="https://timsherratt.org">Tim Sherratt</a>.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'How well do you know your Australian history?';
+    var tagline = 'How well do you know your ACT history?';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
